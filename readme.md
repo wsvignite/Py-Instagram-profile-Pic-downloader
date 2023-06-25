@@ -1,7 +1,5 @@
 # Python Instagram Profile Pic Downloader
 
-![GitHub](https://img.shields.io/github/license/wsvignite/Py-Instagram-profile-Pic-downloader)
-![GitHub stars](https://img.shields.io/github/stars/wsvignite/Py-Instagram-profile-Pic-downloader?style=social)
 
 ## Description
 Welcome to the Python Instagram Profile Pic Downloader! This command-line tool allows you to easily download profile pictures from Instagram. Simply enter the Instagram username and let the magic happen!
@@ -23,11 +21,6 @@ Welcome to the Python Instagram Profile Pic Downloader! This command-line tool a
 3. Enter the Instagram username when prompted.
 4. The profile picture will be downloaded and saved in the current directory.
 
-## Contribution
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. Let's make this project even better together!
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## About Us
 At WSV Ignite, we are a team of passionate freelancers specializing in web development, SEO optimization, content creation, and more. We aim to deliver top-notch digital solutions tailored to your unique needs. Check out our website at [www.wsvignite.com](https://www.wsvignite.com) for more information.
